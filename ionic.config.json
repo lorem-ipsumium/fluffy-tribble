@@ -1,0 +1,7 @@
+{
+  "name": "Test ENviroiergn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
